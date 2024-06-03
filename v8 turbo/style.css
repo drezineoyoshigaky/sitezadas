@@ -9,20 +9,7 @@
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
-.container {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-.container  .card  {
-  position: relative;
-  width: 500px;
-  height: 230px;
-  padding: 15px;
-  backgr
+
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
